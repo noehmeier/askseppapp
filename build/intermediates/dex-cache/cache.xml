@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/steph/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_d2a4429fbf19e7049933d6c513031e63a732aea6.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.1/1d232df84491c0453e077002509911301109409d/logging-interceptor-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d232df84491c0453e077002509911301109409d">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.0.1_49d43009903d07b73e85c8bc34fad03e81e9173d.jar" />
+    </item>
+    <item
+        jar="/Users/steph/workspace/askseppapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_63170c53d6934e83ef6d21a628725236219ebc66.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/gson-2.6.1_4376a3d7d11c80ee4a6e65ef64e533e42fc693c3.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.13_35408bc56160a22db32c9c9bb0af910cb34386bb.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_c236341211fce216d16c97e9440d0a4bcd5ea7d1.jar" />
+    </item>
+    <item
+        jar="/Users/steph/workspace/askseppapp/app/libs/android-smartview-sdk-2.0.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59d102393833c7fef931af2a072a2d778daadb9c">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/android-smartview-sdk-2.0.14_bac5016846a6959530e2c63421a550d9db3606cd.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/okio-1.6.0_ffaa17b5f655a32b66a9ba21ce3b1b77505dae65.jar" />
+    </item>
+    <item
+        jar="/Users/steph/workspace/askseppapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_36bc49a3afa0a5cb2aade5049b4d63c503567aff.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_903a922f2992b22c3c65ec38da2ffed255257106.jar" />
+    </item>
+    <item
+        jar="/Users/steph/workspace/askseppapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-20.0.0_f209c18ff710b47f9d3033ad32d9c0c88c7b5cf1.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_c62ac50b6caa2bdef73c7dff72cb261689663734.jar" />
+    </item>
+    <item
+        jar="/Users/steph/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="/Users/steph/workspace/askseppapp/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.13_af7909a20069b305aaab5332a99fe0f1dc5be7b5.jar" />
+    </item>
+
+</items>
